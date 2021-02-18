@@ -16,3 +16,7 @@ This is a simple web project, deployment can be on any web server or even local 
 ## How To Contribute
 
 One could contribute to this by creating the pull request.
+
+## Copyright
+
+2021 tapas-diff
