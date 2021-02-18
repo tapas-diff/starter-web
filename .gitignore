@@ -1,3 +1,8 @@
 robots.txt
 *.log
+*.orig
 log/
+simple_BACKUP_1021.html
+simple_BASE_1021.html
+simple_LOCAL_1021.html
+simple_REMOTE_1021.html
