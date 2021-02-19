@@ -21,4 +21,4 @@ please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-2021 tapas-diff
+2021 tapas-diff; All rights reserved:)
