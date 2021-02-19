@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is a dummy repository for showing how Git and GitHub work . Just adding a line to demo rebasing.
+This repository is a dummy repository for showing how Git and GitHub work . Updating for emergency fix after stashing.
 
 This is the changes from my feature branch.
 
@@ -11,6 +11,7 @@ This is the example to show different parts of the Git repository and various co
 ## Purpose
 
 As stated above, the main purpose is to provide simple examples for Git training demos.
+
 ## Deployment
 
 This is a simple web project, deployment can be on any web server or even local file system.
