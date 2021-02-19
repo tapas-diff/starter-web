@@ -2,6 +2,8 @@
 
 This repository is a dummy repository for showing how Git and GitHub work . Just adding a line to demo rebasing.
 
+This is the changes from my feature branch.
+
 ## Introduction
 
 This is the example to show different parts of the Git repository and various commands using a web project.
