@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is a dummy repository for showing how Git and GitHub work 
+This repository is a dummy repository for showing how Git and GitHub work . Just adding a line to demo rebasing.
 
 ## Introduction
 
